@@ -1,0 +1,15 @@
+Implementing Multicast Distribution Through Recursive Unicast Trees
+
+ITJNW10
+
+1.Install jdk1.5.
+
+2.Set environmental variable for java.
+
+3.Run the batch files in the following order
+
+	a.rootdesign.bat
+	b.leftdesign.bat
+	c.rightdesign.bat
+	
+

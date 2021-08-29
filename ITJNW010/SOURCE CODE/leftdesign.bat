@@ -1,0 +1,2 @@
+javac LEFTDESIGN.java
+java LEFTDESIGN
